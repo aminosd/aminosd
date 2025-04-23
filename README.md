@@ -6,59 +6,59 @@ I specialize in building modular, observable, and production-grade pipelines —
 
 #### 🚀 What I Do Best
 
-⚙️ Build scalable ETL pipelines e.g. Apache Beam (Python) on Dataflow — powering H&M’s internal A/B testing platform used across brands
+    ⚙️ Build scalable ETL pipelines e.g. Apache Beam (Python) on Dataflow — powering H&M’s internal A/B testing platform used across brands
 
-🧱 Model data transformations using DBT to ensure versioning, testing, and documentation are always part of the deployment
+    🧱 Model data transformations using DBT to ensure versioning, testing, and documentation are always part of the deployment
 
-⚡ Orchestrate event-driven systems with Cloud Run, Workflows, and Cloud Functions — serverless-first by design
+    ⚡ Orchestrate event-driven systems with Cloud Run, Workflows, and Cloud Functions — serverless-first by design
 
-🧪 Enable experimentation at scale — ingesting and transforming billions of events daily with full lineage and monitoring
+    🧪 Enable experimentation at scale — ingesting and transforming billions of events daily with full lineage and monitoring
 
-📈 Deliver marketing performance insights using lightweight MMM pipelines across digital channels, driving measurable ROI
+    📈 Deliver marketing performance insights using lightweight MMM pipelines across digital channels, driving measurable ROI
 
-🛡️ Ensure production stability with CI/CD, alerting, monitoring, and rollback strategies — no silent pipeline failures
+    🛡️ Ensure production stability with CI/CD, alerting, monitoring, and rollback strategies — no silent pipeline failures
 
 #### 🧠 What I Don't Do
 
-🚫 I don't rely on scheduled cron jobs where event triggers make sense
+    🚫 I don't rely on scheduled cron jobs where event triggers make sense
 
-🚫 I don't skip monitoring or deployment pipelines
+    🚫 I don't skip monitoring or deployment pipelines
 
-🚫 I don't treat notebooks as production environments
+    🚫 I don't treat notebooks as production environments
 
-🚫 I don’t hardcode — everything is parameterized, tested, and modular
+    🚫 I don’t hardcode — everything is parameterized, tested, and modular
 
 #### 🛠️ Tech Stack
 
-☁️ Google Cloud Platform: Dataflow, Cloud Run, BigQuery, Workflows, Pub/Sub
+    ☁️ Google Cloud Platform: Dataflow, Cloud Run, BigQuery, Workflows, Pub/Sub
+    
+    🧪 Apache Beam (Python): large-scale batch & streaming pipelines
 
-🧪 Apache Beam (Python): large-scale batch & streaming pipelines
+    🛠️ DBT: version-controlled, testable data transformations
 
-🛠️ DBT: version-controlled, testable data transformations
+    🔄 CI/CD & Monitoring: GitHub Actions, GCP Workflows, Slack alerts, Cloud Logging
 
-🔄 CI/CD & Monitoring: GitHub Actions, GCP Workflows, Slack alerts, Cloud Logging
+    📊 Analytics & ML: Lightweight MMM, customer segmentation, churn prediction
 
-📊 Analytics & ML: Lightweight MMM, customer segmentation, churn prediction
-
-🔍 Tools: Docker, Terraform, Airbyte, TensorFlow (for past ML projects)
+    🔍 Tools: Docker, Terraform, Airbyte, TensorFlow (for past ML projects)
 
 #### 📍 Previous Roles
 
-Orange Luxembourg – Built ML models & migrated data workflows to GCP
+    Orange Luxembourg – Built ML models & migrated data workflows to GCP
 
-Loria, France – Led research on federated learning for materials science
+    Loria, France – Led research on federated learning for materials science
 
-Trusted Advisors (UK) – Delivered a customer churn prediction platform for a major MENA bank
+    Trusted Advisors (UK) – Delivered a customer churn prediction platform for a major MENA bank
 
 #### 📫 Get in Touch
 
-📧 Email
-sdouramine@gmail.com
-🔗 LinkedIn
-https://www.linkedin.com/in/aminesdour/
+    📧 Email
+    sdouramine@gmail.com
+    🔗 LinkedIn
+    https://www.linkedin.com/in/aminesdour/
 
 #### ⚡ Quick Facts
 
-🌍 From Morocco 🇲🇦 → France 🇫🇷 → Luxembourg 🇱🇺 → Sweden 🇸🇪
+    🌍 From Morocco 🇲🇦 → France 🇫🇷 → Luxembourg 🇱🇺 → Sweden 🇸🇪
 
-🗣️ Fluent in Python, GCP, and problem-solving
+    🗣️ Fluent in Python, GCP, and problem-solving
