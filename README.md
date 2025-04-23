@@ -61,4 +61,4 @@ I specialize in building modular, observable, and production-grade pipelines —
 
     🌍 From Morocco 🇲🇦 → France 🇫🇷 → Luxembourg 🇱🇺 → Sweden 🇸🇪
 
-    🗣️ Fluent in Python, GCP, and problem-solving
+    🗣️ Fluent in French, English, Arabic and Berber ⵣ
