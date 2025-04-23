@@ -1,41 +1,64 @@
-### 👋 Hi, I'm Amine — Data Engineer | AI Enthusiast | GCP Specialist
+### 👋 Hi, I'm Amine — Experienced Data Engineer | GCP Expert
 
-#### 🚀 About Me
+I design and scale cloud-native data systems that power experimentation, marketing, and machine learning at multinational enterprise scale. Currently at H&M Group (Stockholm), I build and maintain robust, low-latency pipelines and event-driven infrastructure serving millions of customers globally.
 
-I'm a Data Engineer at H&M Group in Stockholm, building scalable data platforms and real-time pipelines using Apache Beam, DBT, and Google Cloud Platform. My work powers core analytics infrastructure for A/B testing and marketing optimization across global brands like ARKET.
+I specialize in building modular, observable, and production-grade pipelines — not just prototypes. I engineer solutions that last.
 
-Previously, I worked as a Data Scientist/ML Engineer at Orange Luxembourg, where I delivered customer-targeting ML models and migrated key workflows to the cloud. I also have research experience in federated learning applied to materials science in France, and built churn prediction models for the banking sector in the MENA region.
+#### 🚀 What I Do Best
 
-#### 🔧 What I Do Best
+⚙️ Build scalable ETL pipelines e.g. Apache Beam (Python) on Dataflow — powering H&M’s internal A/B testing platform used across brands
 
-Design Scalable ETL Pipelines — Apache Beam, Dataflow, DBT
+🧱 Model data transformations using DBT to ensure versioning, testing, and documentation are always part of the deployment
 
-Build Event-Driven Systems — Cloud Run, Cloud Functions, Workflows
+⚡ Orchestrate event-driven systems with Cloud Run, Workflows, and Cloud Functions — serverless-first by design
 
-Enable Experimentation Platforms — A/B Testing, Custom Data Models
+🧪 Enable experimentation at scale — ingesting and transforming billions of events daily with full lineage and monitoring
 
-Drive Business ROI — Lightweight MMM, cross-channel data modeling
+📈 Deliver marketing performance insights using lightweight MMM pipelines across digital channels, driving measurable ROI
 
-Deliver ML Solutions — Model development, deployment, and ops on GCP
+🛡️ Ensure production stability with CI/CD, alerting, monitoring, and rollback strategies — no silent pipeline failures
 
-#### 🌱 Currently Exploring
+#### 🧠 What I Don't Do
 
-Finance & Data — merging financial analysis with scalable data infrastructure
+🚫 I don't rely on scheduled cron jobs where event triggers make sense
 
-AI SaaS Tools — building side projects at the intersection of AI + Web
+🚫 I don't skip monitoring or deployment pipelines
 
-Middle East Market Growth — TikTok + Arabic localization strategies
+🚫 I don't treat notebooks as production environments
 
-#### 🤝 Let’s Connect
+🚫 I don’t hardcode — everything is parameterized, tested, and modular
 
-📧 Email: [amine@yourdomain.com] (replace with real one)
-🔗 LinkedIn: linkedin.com/in/your-link
-🌍 Portfolio/Blog: [yourwebsite.com] (optional)
+#### 🛠️ Tech Stack
+
+☁️ Google Cloud Platform: Dataflow, Cloud Run, BigQuery, Workflows, Pub/Sub
+
+🧪 Apache Beam (Python): large-scale batch & streaming pipelines
+
+🛠️ DBT: version-controlled, testable data transformations
+
+🔄 CI/CD & Monitoring: GitHub Actions, GCP Workflows, Slack alerts, Cloud Logging
+
+📊 Analytics & ML: Lightweight MMM, customer segmentation, churn prediction
+
+🔍 Tools: Docker, Terraform, Airbyte, TensorFlow (for past ML projects)
+
+#### 📍 Previous Roles
+
+Orange Luxembourg – Built ML models & migrated data workflows to GCP
+
+Loria, France – Led research on federated learning for materials science
+
+Trusted Advisors (UK) – Delivered a customer churn prediction platform for a major MENA bank
+
+#### 📫 Get in Touch
+
+📧 Email
+sdouramine@gmail.com
+🔗 LinkedIn
+https://www.linkedin.com/in/aminesdour/
 
 #### ⚡ Quick Facts
 
-🌍 Global experience: Morocco → France → Luxembourg → Sweden
+🌍 From Morocco 🇲🇦 → France 🇫🇷 → Luxembourg 🇱🇺 → Sweden 🇸🇪
 
-🧠 Passionate about blending AI, engineering, and storytelling
-
-🎯 Looking for: forward-thinking teams, impactful projects, and cross-functional collaboration
+🗣️ Fluent in Python, GCP, and problem-solving
